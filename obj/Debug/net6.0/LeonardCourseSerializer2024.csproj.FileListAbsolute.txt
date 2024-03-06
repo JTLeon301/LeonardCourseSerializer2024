@@ -1,0 +1,17 @@
+C:\Users\jtleo\CPSC-23000-001\LeonardCourseSerializer2024\bin\Debug\net6.0\LeonardCourseSerializer2024.exe
+C:\Users\jtleo\CPSC-23000-001\LeonardCourseSerializer2024\bin\Debug\net6.0\LeonardCourseSerializer2024.deps.json
+C:\Users\jtleo\CPSC-23000-001\LeonardCourseSerializer2024\bin\Debug\net6.0\LeonardCourseSerializer2024.runtimeconfig.json
+C:\Users\jtleo\CPSC-23000-001\LeonardCourseSerializer2024\bin\Debug\net6.0\LeonardCourseSerializer2024.dll
+C:\Users\jtleo\CPSC-23000-001\LeonardCourseSerializer2024\bin\Debug\net6.0\LeonardCourseSerializer2024.pdb
+C:\Users\jtleo\CPSC-23000-001\LeonardCourseSerializer2024\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\jtleo\CPSC-23000-001\LeonardCourseSerializer2024\obj\Debug\net6.0\LeonardCourseSerializer2024.csproj.AssemblyReference.cache
+C:\Users\jtleo\CPSC-23000-001\LeonardCourseSerializer2024\obj\Debug\net6.0\LeonardCourseSerializer2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jtleo\CPSC-23000-001\LeonardCourseSerializer2024\obj\Debug\net6.0\LeonardCourseSerializer2024.AssemblyInfoInputs.cache
+C:\Users\jtleo\CPSC-23000-001\LeonardCourseSerializer2024\obj\Debug\net6.0\LeonardCourseSerializer2024.AssemblyInfo.cs
+C:\Users\jtleo\CPSC-23000-001\LeonardCourseSerializer2024\obj\Debug\net6.0\LeonardCourseSerializer2024.csproj.CoreCompileInputs.cache
+C:\Users\jtleo\CPSC-23000-001\LeonardCourseSerializer2024\obj\Debug\net6.0\LeonardCourseSerializer2024.csproj.CopyComplete
+C:\Users\jtleo\CPSC-23000-001\LeonardCourseSerializer2024\obj\Debug\net6.0\LeonardCourseSerializer2024.dll
+C:\Users\jtleo\CPSC-23000-001\LeonardCourseSerializer2024\obj\Debug\net6.0\refint\LeonardCourseSerializer2024.dll
+C:\Users\jtleo\CPSC-23000-001\LeonardCourseSerializer2024\obj\Debug\net6.0\LeonardCourseSerializer2024.pdb
+C:\Users\jtleo\CPSC-23000-001\LeonardCourseSerializer2024\obj\Debug\net6.0\LeonardCourseSerializer2024.genruntimeconfig.cache
+C:\Users\jtleo\CPSC-23000-001\LeonardCourseSerializer2024\obj\Debug\net6.0\ref\LeonardCourseSerializer2024.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IW7bEqvZqmGcdXRBkyANwnCkUt/ctuNdBvQch8IHXw5sEiCZYWpY465LiFkTSb5KGNFXSD7Wz/oNRN97Nz5RYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jtleo\\CPSC-23000-001\\LeonardCourseSerializer2024\\LeonardCourseSerializer2024.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jtleo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
